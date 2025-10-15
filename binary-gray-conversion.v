@@ -32,3 +32,22 @@ end
 // converter # //
 
 endmodule
+
+/* 
+NET "clk" LOC = "b8"; 
+
+NET "sw<3>" LOC = "b4"; 
+NET "sw<2>" LOC = "k3"; 
+NET "sw<1>" LOC = "l3"; 
+NET "sw<0>" LOC = "p11"; 
+
+NET "btn_g2b" LOC = "a7"; 
+NET "btn_b2g" LOC = "m4"; 
+NET "btn_rst" LOC = "c11"; 
+ 
+NET "led<3>" LOC = "p6" ; 
+NET "led<2>" LOC = "p7" ; 
+NET "led<1>" LOC = "m11" ; 
+NET "led<0>" LOC = "m5" ; 
+
+*/
