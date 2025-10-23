@@ -1,8 +1,8 @@
-NET "ld1<0>" LOC = "m5" ; 
+NET "ld1" LOC = "m5" ; 
 
-NET "sw1<0>" LOC = "p11";
+NET "sw1" LOC = "p11";
 
-NET "rst<3>" LOC = "a7"; 
+NET "rst" LOC = "a7"; 
 
 NET "ld<6>"  LOC = "l14"  ;
 NET "ld<5>"  LOC = "h12"  ;
