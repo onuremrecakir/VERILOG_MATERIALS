@@ -1,0 +1,28 @@
+NET "row<0>" LOC = "c6";
+NET "row<1>" LOC = "b6";
+NET "row<2>" LOC = "c5";
+NET "row<3>" LOC = "b7";
+
+NET "col<0>" LOC = "a9";
+NET "col<0>" PULLUP; 
+NET "col<1>" LOC = "b9";
+NET "col<1>" PULLUP; 
+NET "col<2>" LOC = "a10";
+NET "col<2>" PULLUP; 
+NET "col<3>" LOC = "c9";
+NET "col<3>" PULLUP;
+
+NET "clk" LOC = "b8"; 
+
+NET "ld<6>"  LOC = "l14"  ;
+NET "ld<5>"  LOC = "h12"  ;
+NET "ld<4>"  LOC = "n14"  ;
+NET "ld<3>"  LOC = "n11"  ;
+NET "ld<2>"  LOC = "p12"  ;
+NET "ld<1>"  LOC = "l13"  ;
+NET "ld<0>"  LOC = "m12"  ;
+
+NET "an<3>" LOC = "k14"; 
+NET "an<2>" LOC = "m13"; 
+NET "an<1>" LOC = "j12"; 
+NET "an<0>" LOC = "f12"; 
