@@ -14,7 +14,7 @@ reg [3:0] keyout_next;
 reg [3:0] row_scan;
 
 
-/////////////// NOT MY WORK //////
+
 parameter LAG = 10;                   // 50MHz / 10 = 5M -> 1/5M = 200ns
 
 reg [19:0] scan_timer = 0;           
@@ -27,7 +27,7 @@ always @(posedge clk)
 	end
 	else
 		scan_timer <= scan_timer + 1;
-/////////////// NOT MY WORK //////
+
 
 
 always @ (*)
