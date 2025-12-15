@@ -1,0 +1,29 @@
+NET "ld<6>"  LOC = "l14"  ;
+NET "ld<5>"  LOC = "h12"  ;
+NET "ld<4>"  LOC = "n14"  ;
+NET "ld<3>"  LOC = "n11"  ;
+NET "ld<2>"  LOC = "p12"  ;
+NET "ld<1>"  LOC = "l13"  ;
+NET "ld<0>"  LOC = "m12"  ;
+NET "dp"  LOC = "n13"  ;
+
+
+NET "an<3>" LOC = "k14"; 
+NET "an<2>" LOC = "m13"; 
+NET "an<1>" LOC = "j12"; 
+NET "an<0>" LOC = "f12"; 
+
+NET "clk" LOC = "b8"; 
+
+NET "sw<7>" LOC = "n3"; 
+NET "sw<6>" LOC = "e2"; 
+NET "sw<5>" LOC = "f3"; 
+NET "sw<4>" LOC = "g3"; 
+NET "sw<3>" LOC = "b4"; 
+NET "sw<2>" LOC = "k3"; 
+NET "sw<1>" LOC = "l3"; 
+NET "sw<0>" LOC = "p11"; 
+
+
+NET "btn<1>" LOC = "c11"; 
+NET "btn<0>" LOC = "g12";
